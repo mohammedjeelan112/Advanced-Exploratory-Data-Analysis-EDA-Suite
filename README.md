@@ -19,7 +19,7 @@ The **EDA Suite** is a Python library designed to automate the exploratory data 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Kaushik4636/Advanced-Exploratory-Data-Analysis-EDA-Suite.git
+git clone https://github.com/mohammedjeelan112/Advanced-Exploratory-Data-Analysis-EDA-Suite.git
 cd eda_suite
 ````
 
